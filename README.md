@@ -10,3 +10,8 @@ I'm a front-end developer who loves building cool projects and learning new tech
 - **Languages:** JavaScript, HTML/CSS, Python
 - **Frameworks:** Node.js, React.js, Typescript.js, SCSS, Tailwind CSS
 - **Tools:** GitHub, VS Code, Аntigravity
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyan&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" />
+</p>
