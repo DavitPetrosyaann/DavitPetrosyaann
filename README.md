@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there+I+am+Davit+👋;Front-End+Developer+💻;Building+PreZento.am+🚀" alt="Typing SVG" />
-</p>I'm a front-end developer who loves building cool projects and learning new technologies!
+# Hi there, I'm Davit Ter-Petrosyan 👋
+I'm a front-end developer who loves building cool projects and learning new technologies!
 
 ### 🔭 What I'm working on
 - I’m currently working on a personal project called [PreZento.am](https://prezento.am)
@@ -12,8 +11,8 @@
 - **Tools:** GitHub, VS Code, Аntigravity
 
 ### 💬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/davit-petrosyannnn?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davit.petrosyan223@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davit-petrosyannnn?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davit.petrosyan223@gmail.com)
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/b61cacb90a771971e2ffa663c046b5756c33a67068c1f25aa1696b7caeffbc4b/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" width="60%" alt="Frontend Developer Illustration" />
