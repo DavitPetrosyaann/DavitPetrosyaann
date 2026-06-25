@@ -3,7 +3,7 @@
 I'm a front-end developer who loves building cool projects and learning new technologies!
 
 ### 🔭 What I'm working on
-- I’m currently working on a personal project called PreZento.am
+- I’m currently working on a personal project called [PreZento.am](https://prezento.am)
 - Improving my skills in software architecture
 
 ### 🛠️ Tech Stack & Tools
