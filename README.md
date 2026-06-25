@@ -13,5 +13,5 @@ I'm a front-end developer who loves building cool projects and learning new tech
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyan&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" />
 </p>
