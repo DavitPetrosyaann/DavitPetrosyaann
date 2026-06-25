@@ -21,4 +21,4 @@ I'm a front-end developer who loves building cool projects and learning new tech
   <img src="https://github-readme-stats.vercel.app/api?username=DavitPetrosyaann&show_icons=true&locale=en&theme=default" alt="Davit's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="150" />
 </p>
-![Views](https://komarev.com/pngcounter/badge.svg?username=DavitPetrosyaann&color=blue&style=flat-square)
+[Views](https://komarev.com/pngcounter/badge.svg?username=DavitPetrosyaann&color=blue&style=flat-square)
