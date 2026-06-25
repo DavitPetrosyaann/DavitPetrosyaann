@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there+I+am+Davit+👋;Front-End+Developer+💻;Building+PreZento.am+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there+I+am+Davit+👋;Front-End+Developer+💻;Building+PreZento.am+🚀" alt="Typing SVG" />
 </p>
 I'm a front-end developer who loves building cool projects and learning new technologies!
 
