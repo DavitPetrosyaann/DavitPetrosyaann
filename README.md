@@ -1,5 +1,5 @@
-<p align="center"> # Hi there, I'm Davit Ter-Petrosyan 👋 </p>
-<p align="center"> I'm a front-end developer who loves building cool projects and learning new technologies! </p>
+<h1 align="center">  Hi there 👋 I'm Davit Ter-Petrosyan </h1>
+<h4 align="center"> A passionate Front-End Developer who loves building cool projects and learning new technologies! </h4>
 
 ### 🔭 What I'm working on
 - I’m currently working on a personal project called [PreZento.am](https://prezento.am)
