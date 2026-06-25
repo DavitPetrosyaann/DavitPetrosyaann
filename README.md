@@ -7,8 +7,8 @@ I'm a front-end developer who loves building cool projects and learning new tech
 - Improving my skills in software architecture
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, HTML/CSS, Python
-- **Frameworks:** Node.js, React.js, Typescript.js, SCSS, Tailwind CSS
+- **Languages:** JavaScript, HTML/CSS, Python, R
+- **Frameworks:** Node.js, React.js, TypeScript, SCSS, Tailwind CSS
 - **Tools:** GitHub, VS Code, Аntigravity
 
 ### 📊 My GitHub Stats
