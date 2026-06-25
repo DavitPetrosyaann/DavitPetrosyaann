@@ -1,16 +1,20 @@
 ## Hi there I am Davit Petrosyan 👋
 
-<!--
-**DavitPetrosyaann/DavitPetrosyaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building cool projects and learning new technologies!
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- I’m currently working on a personal project called [Project Name]
+- Improving my skills in software architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- Deep diving into [Language/Framework, e.g., React, Go, Python]
+- Exploring cloud services like AWS/Docker
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, HTML/CSS, Python
+- **Frameworks:** Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+### 💬 Connect with me
+- 📬 How to reach me: [Your Email] or [LinkedIn Profile Link]
+- ⚡ Fun fact: I drink way too much coffee when debugging.
