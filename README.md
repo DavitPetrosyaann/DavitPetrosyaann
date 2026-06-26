@@ -3,7 +3,7 @@
 
 ### 🔭 What I'm working on
 - I’m currently working on a personal project called [PreZento.am](https://prezento.am)
-- Improving my skills in software architecture
+- Improving my skills in software architecture 
 
 ### 🛠️ Tech Stack & Tools
 
