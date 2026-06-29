@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,mongodb,nodejs,sass,tailwind,github,vscode,antigravity" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,mongodb,nodejs,sass,tailwind,github,vscode" />
   </a>
 </p>
 
@@ -29,6 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavitPetrosyaann&show_icons=true&locale=en&theme=default" alt="Davit's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="200" />
 </p>
