@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="200" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="200" />
 </p>
