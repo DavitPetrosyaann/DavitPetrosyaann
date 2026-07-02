@@ -31,3 +31,11 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DavitPetrosyaann&layout=compact&langs_count=6&theme=default" alt="Davit's Top Languages" height="200" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavitPetrosyaann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DavitPetrosyaann&theme=default" alt="GitHub Streak" />
+</p>
